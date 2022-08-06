@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "codeBeauty", "codeBeauty\codeBeauty.vcxproj", "{9873A555-13F2-4558-914B-08D709D3C9BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9873A555-13F2-4558-914B-08D709D3C9BF}.Debug|x64.ActiveCfg = Debug|x64
+		{9873A555-13F2-4558-914B-08D709D3C9BF}.Debug|x64.Build.0 = Debug|x64
+		{9873A555-13F2-4558-914B-08D709D3C9BF}.Debug|x86.ActiveCfg = Debug|Win32
+		{9873A555-13F2-4558-914B-08D709D3C9BF}.Debug|x86.Build.0 = Debug|Win32
+		{9873A555-13F2-4558-914B-08D709D3C9BF}.Release|x64.ActiveCfg = Release|x64
+		{9873A555-13F2-4558-914B-08D709D3C9BF}.Release|x64.Build.0 = Release|x64
+		{9873A555-13F2-4558-914B-08D709D3C9BF}.Release|x86.ActiveCfg = Release|Win32
+		{9873A555-13F2-4558-914B-08D709D3C9BF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1416F445-6E51-4FA9-A6E7-B430079F9DE5}
+	EndGlobalSection
+EndGlobal

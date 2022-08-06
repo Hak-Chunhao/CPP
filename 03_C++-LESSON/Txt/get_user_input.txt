@@ -1,0 +1,5 @@
+1. cin>>
+2. getch() || _getchar() || system("pause")|| system("pause>0") = press anykey to continue
+3. getchar() || getwchar() || cin.get() #include<conio.h>
+4. gets() in c program
+5. getline(cin,variable) c++

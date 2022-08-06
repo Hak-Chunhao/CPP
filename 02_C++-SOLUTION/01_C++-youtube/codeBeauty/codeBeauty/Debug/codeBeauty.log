@@ -1,0 +1,3 @@
+﻿  arrPtr.cpp
+voidPtr.obj : error LNK2005: _main already defined in arrPtr.obj
+E:\01_programming\03_C++\codeBeauty\Debug\codeBeauty.exe : fatal error LNK1169: one or more multiply defined symbols found
